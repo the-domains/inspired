@@ -1,0 +1,23 @@
+name: inspired
+favicon: null
+layout_spectrum: 0.4790678571444005
+typography_spectrum: 0.19536917959339917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9153815985191613
+  lightness: 0.4594484071712941
+  saturation: 0.18235297757200897
+  rhythmicContrast: 0.23666865145787597
+purpose: []
