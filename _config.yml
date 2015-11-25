@@ -1,7 +1,7 @@
 name: inspired
 favicon: null
 layout_spectrum: 0.8312
-typography_spectrum: 0.01497
+typography_spectrum: 0.20751
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.4594484071712941
-  saturation: 0.18235297757200897
-  rhythmicContrast: 0.23666865145787597
+  brandColors:
+    - '#edae00'
+    - '#e9e7ea'
+    - '#000000'
+    - '#4f4f4f'
+    - '#d7030a'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
