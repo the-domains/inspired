@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[inspired]]></title>
+        <description><![CDATA[inspired]]></description>
+        <link>https://thegrid.ai/inspired/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 Nov 2015 07:27:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inspired/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://a1.dspncdn.com/media/692x/f7/06/8d/f7068defb2a8759c7188d05d2e593d68.jpg">]]></description>
+            <link>https://thegrid.ai/inspired/4bcd7f61-9dfe-44bb-b215-74d33fb47d7e/index.html</link>
+            <guid isPermaLink="false">4bcd7f61-9dfe-44bb-b215-74d33fb47d7e</guid>
+            <pubDate>Wed, 25 Nov 2015 14:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://a1.dspncdn.com/media/692x/58/9d/e1/589de18797810890ba15fca75d9c0117.jpg">]]></description>
+            <link>https://thegrid.ai/inspired/6d16ecb5-3d94-43eb-9fe3-431fd5ea08f2/index.html</link>
+            <guid isPermaLink="false">6d16ecb5-3d94-43eb-9fe3-431fd5ea08f2</guid>
+            <pubDate>Wed, 25 Nov 2015 13:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://40.media.tumblr.com/tumblr_m6l35sSxiD1qzqavpo1_1280.jpg">]]></description>
+            <link>https://thegrid.ai/inspired/79bdd190-fba6-4fd7-bcf3-cc5802bbd59a/index.html</link>
+            <guid isPermaLink="false">79bdd190-fba6-4fd7-bcf3-cc5802bbd59a</guid>
+            <pubDate>Mon, 26 Oct 2015 11:16:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
