@@ -2,6 +2,7 @@ name: inspired
 favicon: null
 layout_spectrum: 0.64416
 typography_spectrum: 0.20751
+title: Inspired
 cta:
   domain: null
   bucket: null
