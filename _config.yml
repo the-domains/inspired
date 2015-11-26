@@ -1,6 +1,6 @@
 name: inspired
 favicon: null
-layout_spectrum: 0.91372
+layout_spectrum: 0.98441
 typography_spectrum: 0.20751
 title: Inspired
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#edae00'
-    - '#e9e7ea'
-    - '#000000'
-    - '#4f4f4f'
-    - '#d7030a'
+    - '#676668'
+    - '#19191a'
+    - '#41424b'
+    - '#99d1ff'
+    - '#ddddde'
   brandStrength: 0.0625
   lightness: 0.5
   saturation: 0.875
